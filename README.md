@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @k-diggity
+- 🌱 I’m currently learning basic coding with the Odin Project
+- 📫 How to reach me: kkuppa.apte@gmail.com
